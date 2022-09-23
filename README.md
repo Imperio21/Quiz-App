@@ -1,2 +1,2 @@
 # Quiz-App
-This project is a quiz about JavaScript in Portuguese-Brazil. The technologies used are: contextApi and React.
+This project is a quiz about JavaScript in Portuguese-Brazil. The technologies used are: contextApi and React. When you download the project, run the command NPM INSTALL or YARN INSTALL to download the dependencies, and to start the project, run the command NPM RUN DEV or YARN RUN DEV in the terminal, copy the link that will be available and paste it in the browser. Credits to the youtube channel: "Hora de codar"
